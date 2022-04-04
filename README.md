@@ -1,4 +1,4 @@
-Behinner in C#, GameDev, WPF
+Beginner in C#, GameDev, WPF
 
 Contacts:
 My E-mail: reserveneigh@gmail.com
