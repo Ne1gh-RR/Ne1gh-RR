@@ -1,4 +1,4 @@
-Beginner in C#, ASP .NET Core
+Beginner in MonoGame, ASP .NET Core
 
 Contacts:
 My E-mail: neigh2007@gmail.com
